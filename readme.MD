@@ -3,13 +3,14 @@ Instruction:
 1. Go to https://www.weatherapi.com/
 2. Sign up for free account
 3. Get your API key from dashboard
-4. Replace YOUR_API_KEY_HERE with actual key
+4. Replace YOUR_API_KEY_HERE with actual key or use my key (7cdfedd1065048c094f190302252706) by default its set
 
-COMPILE & RUN:
+Run in Terminal  : 
 javac WeatherApp.java
 java WeatherApp
 
-SAMPLE OUTPUT:
+Sample output looks like this:
+
 Simple Weather App
 Enter city name: Ranchi
 
