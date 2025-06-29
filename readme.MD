@@ -1,4 +1,19 @@
+# MULTITHREADED CHAT APPLICATION
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : GIRISH KUMAR
+
+*INTERN_ID* : CT06DF2915
+
+*DOMAIN* : Java Programming
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar
+  
+  
+<br/><br/><br/>
 Instruction:
 1. Go to https://www.weatherapi.com/
 2. Sign up for free account
