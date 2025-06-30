@@ -23,7 +23,7 @@ Weather Data Fetcher   <br/><br/>
 6. User Interface and Experience : The console-based interface provides an intuitive experience with clear prompts and formatted output. The weather data is displayed using a structured format with visual separators, emojis for enhanced readability, and properly formatted numerical values. The application includes a continuous loop allowing users to query multiple cities without restarting the program, demonstrating good user experience design principles.  <br/><br/>
 
 <br/>
-![rest api image](https://github.com/girishkr9331/Weather-App-Using-Rest-API-Client/blob/master/RestApiClient.png)
+![restapiimage](https://github.com/girishkr9331/Weather-App-Using-Rest-API-Client/blob/master/RestApiClient.png)
 
   
 <br/><br/><br/>
